@@ -1,6 +1,6 @@
-## The Gattleship Game
+# The Gattleship Game
 
-# Here's how the game works:
+## Here's how the game works:
 
 - In order to win the game you have to sink all the battleships.
 - Write your guesses in the input located in the bottom-right corner (i.e. C4).
