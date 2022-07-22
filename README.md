@@ -1,4 +1,4 @@
-# The Gattleship Game
+# The Battleship Game
 
 ## Here's how the game works:
 
