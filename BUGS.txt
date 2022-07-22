@@ -1,0 +1,2 @@
+1)  Hiting the same location is allowed (which is wrong), but an alert shoud pop out so the guesses do not stack up.
+2) Make it possible to accept lowcase letters, not just capitals in the guess form.
